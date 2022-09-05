@@ -1,7 +1,7 @@
 # Competitive-Programming
 Solutions to problems of CodeForces and UVA Uhunt.
 
-Current ICPC Team: cin>>nombre;
+Current 2022 ICPC Team: cin>>nombre;
 
 Uhunt username: adrian.pena
 
